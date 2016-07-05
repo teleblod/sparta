@@ -248,14 +248,14 @@ function create_config( )
     "filter_word",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
+	    sudo_users = {195003828},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel : @Telesparta
+sodu : @orginalweed
 ]],
     help_text_realm = [[
 Realm Commands:
@@ -521,7 +521,7 @@ NOD32 Commands list :
 you can use both "/" and "!" 
 .شما میتوانید از ! و / استفاده کنید
 
-channel: @Nod32Team
+channel: @Telesparta
 
 G00D LUCK ^_^
 ]]
